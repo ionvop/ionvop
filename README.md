@@ -24,6 +24,13 @@ do
 loop
 ```
 
+
+
+# Introduction
+
+#### i leik to play tetris\
+#### I also like to torture myself by using VBScript as my main *""""programming""""* language
+
 <!---
 ionvop/ionvop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
