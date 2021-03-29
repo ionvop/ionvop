@@ -18,18 +18,19 @@
 - 💞️ I’m looking to collaborate on **CHU²**
 - 📫 How to reach me **CHU²**
 
-```
-do
-  wscript.echo("CHU²")
-loop
-```
-
-
+<br><br><br>
 
 # Introduction
 
-#### i leik to play tetris\
-#### I also like to torture myself by using VBScript as my main *""""programming""""* language
+i leik to play tetris\
+I also like to torture myself by using **VBScript** as my main *""""programming""""* language
+
+```
+do
+  CHU² = CHU² & "CHU²"
+  wscript.echo(CHU²)
+loop
+```
 
 <!---
 ionvop/ionvop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
