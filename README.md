@@ -6,11 +6,11 @@
 - 📫 How to reach me **CHU²**
 --->
 
-# **simping for CHU²** **simping for CHU²** **simping for CHU²** **simping for CHU²**
+# **simping for CHU²** **simping for CHU²** **simping for CHU²**
 
 ![chu²](https://static.zerochan.net/Tamade.Chiyu.full.2975693.png)
 
-# **simping for CHU²** **simping for CHU²** **simping for CHU²** **simping for CHU²**
+# **simping for CHU²** **simping for CHU²** **simping for CHU²**
 
 - 👋 Hi, I’m @ionvop
 - 👀 I’m interested in **CHU²**
