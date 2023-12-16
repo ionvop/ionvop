@@ -12,10 +12,10 @@
 
 # **simping for CHU²** **simping for CHU²** **simping for CHU²**
 
-- 👋 Hi, I’m @ionvop
+- 👋 Hi, I’m **@ionvop**
 - 👀 I’m interested in **CHU²**
-- 🌱 I’m currently learning **Artificial Intelligence**
-- 💞️ I’m looking to collaborate on **making an AI desktop assistant**
+- 🌱 I’m currently learning **more about CHU²**
+- 💞️ I’m looking to collaborate on **adoring CHU² together**
 - 📫 How to reach me **@ionvop on Discord**
 
 # Projects
