@@ -33,7 +33,7 @@ i leik to play tetris and riddim gaems
 - **Turbowarp (Scratch)** - for game development
 - **ivvbscript** - my own programming language
 
-## My love for CHU²
+## Harmonies of Devotion: My Burning Desire to Express my Intense Love for CHU²
 
 In the symphony of my heart, there exists a melody that resonates with the brilliance of CHU², the enigmatic leader of RAISE A SUILEN. Her sky-blue eyes hold the depth of a thousand compositions, each note weaving a tale of passion and determination.
 
