@@ -15,7 +15,7 @@
 - 👋 Hi, I’m **@ionvop**
 - 👀 I’m interested in **CHU²**
 - 🌱 I’m currently learning **more about CHU²**
-- 💞️ I’m looking to collaborate on **adoring CHU² together**
+- 💞️ I’m looking to collaborate on **admiring CHU² together**
 - 📫 How to reach me **@ionvop on Discord**
 
 # Projects
