@@ -18,10 +18,35 @@
 - 💞️ I’m looking to collaborate on **making an AI desktop assistant**
 - 📫 How to reach me **@ionvop on Discord**
 
-## Introduction
+# Projects
+## Featured
+### [story-writing-assistant](https://github.com/ionvop/story-writing-assistant)
+An AI-powered assistant to help you write engaging stories. A GUI application school project submission.
+
+### [local-messaging-bot](https://github.com/ionvop/local-messaging-bot)
+A tampermonkey userscript for retrieving and handling data, and a VBScript for virtually typing and sending the response text.
+
+### [turbowarp-extensions](https://github.com/ionvop/turbowarp-extensions)
+A collection of extensions for Turbowarp, the better version of Scratch.
+
+## Work-in-progress
+### [vbstory](https://github.com/ionvop/vbstory)
+An experimental RPG game rendered on file explorer written in VBScript (WIP)
+
+### [ai-desktop-assistant](https://github.com/ionvop/ai-desktop-assistant)
+personal project, work-in-progress
+
+# Introduction
 i leik to play tetris and riddim gaems
 
-### My programming language arsenal
+### Hobbies
+- Adoring CHU² from BanG Dream
+- Programming
+- Playing tetris games like TETR.IO, Jstris, and Puyo Puyo Tetris
+- Playing rhythm games like Arcaea, BanG Dream, Pump it Up, Sound Voltex, maimai, and osu!
+- Watching anime, preferably OPMC and isekai genres
+
+## My programming language arsenal
 - **VBScript** - for automations
 - **HTML/CSS/Javascript/PHP** - for web development
 - **C#** - for GUI applications
