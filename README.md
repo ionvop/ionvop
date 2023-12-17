@@ -62,7 +62,7 @@ i leik to play tetris and riddim gaems
 
 In the symphony of my heart, there exists a melody that resonates with the brilliance of CHU², the enigmatic leader of RAISE A SUILEN. Her sky-blue eyes hold the depth of a thousand compositions, each note weaving a tale of passion and determination.
 
-From the moment I encountered CHU²'s salmon-colored hair cascading like a waterfall of dreams, I found myself immersed in the sonorous enchantment of her character. Her petite stature belies the colossal spirit within, a spirit that echoes through the music she produces with unwavering dedication.
+From the moment I encountered CHU²'s peach-colored hair cascading like a waterfall of dreams, I found myself immersed in the sonorous enchantment of her character. Her petite stature belies the colossal spirit within, a spirit that echoes through the music she produces with unwavering dedication.
 
 CHU²'s professional demeanor, confidence, and stubborn pursuit of musical perfection ignite a flame within my soul. In her, I discover the embodiment of a "kind, generous producer," a title that resonates with the gentleness hidden beneath her competitive exterior.
 
