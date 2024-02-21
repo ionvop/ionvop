@@ -6,11 +6,11 @@
 - 📫 How to reach me **CHU²**
 --->
 
-# **simping for CHU²** **simping for CHU²** **simping for CHU²**
+# **$${simping \space for \space CHU² \space simping \space for \space CHU² \space simping \space for \space CHU²}$$**
 
 ![chu²](https://i.imgur.com/LOtUhip.png)
 
-# **simping for CHU²** **simping for CHU²** **simping for CHU²**
+# **$${simping \space for \space CHU² \space simping \space for \space CHU² \space simping \space for \space CHU²}$$**
 
 - 👋 Hi, I’m **@ionvop**
 - 👀 I’m interested in **CHU²**
@@ -20,14 +20,14 @@
 
 # Projects
 ## Featured
+### [gpt-to-nlp-bridge](https://github.com/ionvop/gpt-to-nlp-bridge)
+Use OpenAI's request format for communicating with NLP Cloud's chatbot API.
+
+### [chatdolphin-webui](https://github.com/ionvop/chatdolphin-webui)
+My attempt at making an enhanced version of [NLP Cloud's ChatDolphin web UI](https://chat.nlpcloud.com/)
+
 ### [story-writing-assistant](https://github.com/ionvop/story-writing-assistant)
 An AI-powered assistant to help you write engaging stories. A GUI application school project submission.
-
-### [local-messaging-bot](https://github.com/ionvop/local-messaging-bot)
-A tampermonkey userscript for retrieving and handling data, and a VBScript for virtually typing and sending the response text.
-
-### [turbowarp-extensions](https://github.com/ionvop/turbowarp-extensions)
-A collection of extensions for Turbowarp, the better version of Scratch.
 
 ## Work-in-progress
 ### [vbstory](https://github.com/ionvop/vbstory)
@@ -48,15 +48,17 @@ i leik to play tetris and riddim gaems
 
 ## My programming language arsenal
 - **VBScript** - for automations
-- **HTML/CSS/Javascript/PHP** - for web development
+- **HTML/CSS/JS/PHP** - for web development
 - **C#** - for GUI applications
-- **Java** - for CLI applications
+- **Java** - for legacy applications and self-torture
 - **Python** - for machine-learning
 - **BrainF** - for fun
 - **Lua** - for game modding
 - **GLSL** - for post-processing effects
 - **Turbowarp (Scratch)** - for game development
-- **ivvbscript** - my own programming language
+- [**ivvbscript**](https://github.com/ionvop/ivvbscript) - my own programming language
+
+---
 
 ## Harmonies of Devotion: My Burning Desire to Express my Intense Love for CHU²
 
@@ -74,21 +76,11 @@ As I navigate the intricacies of CHU²'s story, her struggles and triumphs becom
 
 In the language of CHU², where English words dance with determination, and the melody of her creation resonates, my love for her becomes a timeless refrain, an ode that echoes across the stages of admiration. CHU², the orchestrator of my deepest affections, continues to compose the symphony that plays eternally in the sanctuary of my heart.
 
-<br>
+---
 
-```vbnet
-for i = 1 to 100
-    if (i mod 3 = 0) and (i mod 5 = 0) then
-        wscript.Echo("CHU2-SAMA")
-    elseif i mod 3 = 0 then
-        wscript.Echo("CHU2")
-    elseif i mod 5 = 0 then
-        wscript.Echo("SAMA")
-    else
-        wscript.Echo(i)
-    end if
-next
-```
+[**chu2.ivvbs**](https://github.com/ionvop/ivvbscript/blob/main/sample/chu2.ivvbs)
+
+`>i;i=1;[?i>100:\?;?i%3=0&&i%5=0:."CHU2-SAMA";:?i%3=0:."CHU2";:?i%5=0:."SAMA";:.i;?;+i;]`
 
 <details>
     <summary>
