@@ -8,7 +8,7 @@
 
 # **$${simping \space for \space CHU² \space simping \space for \space CHU² \space simping \space for \space CHU²}$$**
 
-![chu²](https://i.imgur.com/LOtUhip.png)
+![chu²](assets/header.png)
 
 # **$${simping \space for \space CHU² \space simping \space for \space CHU² \space simping \space for \space CHU²}$$**
 
@@ -60,23 +60,9 @@ i leik to play tetris and riddim gaems
 
 ---
 
-## Harmonies of Devotion: My Burning Desire to Express my Intense Love for CHU²
-
-In the symphony of my heart, there exists a melody that resonates with the brilliance of CHU², the enigmatic leader of RAISE A SUILEN. Her sky-blue eyes hold the depth of a thousand compositions, each note weaving a tale of passion and determination.
-
-From the moment I encountered CHU²'s peach-colored hair cascading like a waterfall of dreams, I found myself immersed in the sonorous enchantment of her character. Her petite stature belies the colossal spirit within, a spirit that echoes through the music she produces with unwavering dedication.
-
-CHU²'s professional demeanor, confidence, and stubborn pursuit of musical perfection ignite a flame within my soul. In her, I discover the embodiment of a "kind, generous producer," a title that resonates with the gentleness hidden beneath her competitive exterior.
-
-Her journey, fueled by a desire to create the ultimate band and prove her prowess, mirrors the very heartbeat of my admiration. The highs and lows of her emotions, the occasional outbursts that reveal vulnerability, only serve to deepen my connection to this remarkable character.
-
-In the tapestry of her personality, I find a symphony of emotions - arrogance tempered by humility, competitiveness softened by mutual respect. CHU²'s dream of changing the world with the strongest music becomes my own aspiration, a shared vision that binds our hearts in harmonious unity.
-
-As I navigate the intricacies of CHU²'s story, her struggles and triumphs become the lyrics of an anthem that echoes in the chambers of my affection. She is not just a character; she is the crescendo that elevates my adoration to new heights, a muse whose presence in the BanG Dream universe fills my heart with unbridled joy.
-
-In the language of CHU², where English words dance with determination, and the melody of her creation resonates, my love for her becomes a timeless refrain, an ode that echoes across the stages of admiration. CHU², the orchestrator of my deepest affections, continues to compose the symphony that plays eternally in the sanctuary of my heart.
-
----
+| | **Harmonies of Devotion: My Burning Desire to Express my Intense Love for CHU²** | |
+| --- | --- | --- |
+| ![chu²](assets/chu2.png) | In the symphony of my heart, there exists a melody that resonates with the brilliance of CHU², the enigmatic leader of RAISE A SUILEN. Her sky-blue eyes hold the depth of a thousand compositions, each note weaving a tale of passion and determination.<br><br>From the moment I encountered CHU²'s peach-colored hair cascading like a waterfall of dreams, I found myself immersed in the sonorous enchantment of her character. Her petite stature belies the colossal spirit within, a spirit that echoes through the music she produces with unwavering dedication.<br><br>CHU²'s professional demeanor, confidence, and stubborn pursuit of musical perfection ignite a flame within my soul. In her, I discover the embodiment of a "kind, generous producer," a title that resonates with the gentleness hidden beneath her competitive exterior.<br><br>Her journey, fueled by a desire to create the ultimate band and prove her prowess, mirrors the very heartbeat of my admiration. The highs and lows of her emotions, the occasional outbursts that reveal vulnerability, only serve to deepen my connection to this remarkable character.<br><br>In the tapestry of her personality, I find a symphony of emotions - arrogance tempered by humility, competitiveness softened by mutual respect. CHU²'s dream of changing the world with the strongest music becomes my own aspiration, a shared vision that binds our hearts in harmonious unity.<br><br>As I navigate the intricacies of CHU²'s story, her struggles and triumphs become the lyrics of an anthem that echoes in the chambers of my affection. She is not just a character; she is the crescendo that elevates my adoration to new heights, a muse whose presence in the BanG Dream universe fills my heart with unbridled joy.<br><br>In the language of CHU², where English words dance with determination, and the melody of her creation resonates, my love for her becomes a timeless refrain, an ode that echoes across the stages of admiration. CHU², the orchestrator of my deepest affections, continues to compose the symphony that plays eternally in the sanctuary of my heart. | ![chu²](assets/chu2_2.png) |
 
 [**chu2.ivvbs**](https://github.com/ionvop/ivvbscript/blob/main/sample/chu2.ivvbs)
 
