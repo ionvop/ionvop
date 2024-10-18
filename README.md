@@ -56,7 +56,7 @@ i leik to play tetris and riddim gaems
 - **Lua** - for game modding
 - **GLSL** - for post-processing effects
 - **Turbowarp (Scratch)** - for game development
-- [**ivvbscript**](https://github.com/ionvop/ivvbscript) - my own programming language
+- [**ivpy**](https://github.com/ionvop/ivpy) - my own programming language
 
 ---
 
