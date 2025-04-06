@@ -16,25 +16,22 @@
 - 👀 I’m interested in **CHU²**
 - 🌱 I’m currently learning **more about CHU²**
 - 💞️ I’m looking to collaborate on **admiring CHU² together**
-- 📫 How to reach me **@ionvop on Discord**
+- 📫 How to reach me: **@ionvop on Discord**
 
 # Projects
 ## Featured
-### [gpt-to-nlp-bridge](https://github.com/ionvop/gpt-to-nlp-bridge)
-Use OpenAI's request format for communicating with NLP Cloud's chatbot API.
+### [yahtml](https://github.com/ionvop/yahtml)
+A lightweight PHP-based system that dynamically renders HTML pages using YAML configurations.
 
-### [chatdolphin-webui](https://github.com/ionvop/chatdolphin-webui)
-My attempt at making an enhanced version of [NLP Cloud's ChatDolphin web UI](https://chat.nlpcloud.com/)
+### [decklog-tester](https://github.com/ionvop/decklog-tester)
+A simple board simulator for quickly testing a Cardfight Vanguard decklog.
 
-### [story-writing-assistant](https://github.com/ionvop/story-writing-assistant)
-An AI-powered assistant to help you write engaging stories. A GUI application school project submission.
+### [decklog-printer](https://github.com/ionvop/decklog-printer)
+Generate a printable document file of a Bushiroad decklist in one click.
 
 ## Work-in-progress
-### [vbstory](https://github.com/ionvop/vbstory)
-An experimental RPG game rendered on file explorer written in VBScript (WIP)
-
-### [ai-desktop-assistant](https://github.com/ionvop/ai-desktop-assistant)
-personal project, work-in-progress
+### [chronoz](https://github.com/ionvop/chronoz)
+The web component of my work-in-progress rhythm game ChronoZ containing both the editor and the game.
 
 # Introduction
 i leik to play tetris and riddim gaems
@@ -47,15 +44,18 @@ i leik to play tetris and riddim gaems
 - Watching anime, preferably OPMC and isekai genres
 
 ## My programming language arsenal
-- **VBScript** - for automations
+### Languages I mainly use
 - **HTML/CSS/JS/PHP** - for web development
-- **C#** - for GUI applications
-- **Java** - for legacy applications and self-torture
-- **Python** - for machine-learning
-- **BrainF** - for fun
-- **Lua** - for game modding
-- **GLSL** - for post-processing effects
+- **Python** - for desktop applications
 - **Turbowarp (Scratch)** - for game development
+
+### Other languages I know
+- **VBScript** - for automations
+- **C#** - for desktop applications
+- **Java** - for legacy applications and self-torture
+- **BrainF** - for fun
+- **Lua** - for game-modding
+- **GLSL** - for post-processing effects
 - [**ivpy**](https://github.com/ionvop/ivpy) - my own programming language
 
 ---
